@@ -1,0 +1,194 @@
+
+@media only screen and (max-width: 600px) {
+
+
+
+
+
+
+
+	.heade{
+	width:30%;
+	}
+   .heade p{
+	font-size:22px;
+	}
+	.icon{
+		width:100%;
+		display: block;
+		background: none;
+         margin-left: 50px;
+	}
+	.yes{
+	width: 322px;
+    height: 450px;
+    background: #eee;
+    margin-left: 27px;
+	}
+	.text{
+	width: 100%;
+    text-align: center;
+	}
+	.text h4{
+	font-size: 30px;
+    font-weight: 800;
+    line-height: 50px;
+        margin-top: 30px;
+	}
+	.text p{
+	text-align: center;
+    width: 100%;
+	}
+	.backside{
+	width: 100%;
+    display: inline-block;
+    background-attachment: fixed;
+    background-color: #7533e1;
+	}
+     .bc_text{
+    width: 30%;
+    text-align: center;
+     }
+
+   .bc_text h1 {
+    font-size: 36px;
+   }
+
+.right_img {
+    width: 32%;
+    padding: 80px 20px;
+    background:#7533e1;
+}
+i.fas.fa-play-circle {
+    margin-left: 190px;
+    margin-top: 160px;
+}
+.cover {
+    width: 30%;
+    text-align:center;
+}
+.resulation h4 {
+    text-align: center;
+}
+.resulation h2{
+    font-size:40px;
+}
+.resulation p{
+    font-size:20px;
+}
+
+.camra img {
+display: none;
+}
+.resulations {
+    margin-top: 400px;
+}
+.resulation {
+    background: #4a2782f2;
+    padding: 120px 0;
+    color: #fff;
+}
+.resulation h4{
+	color:#fff;
+}
+.resulation p{
+	color:#fff;
+}
+.headd {
+    text-align: center;
+    width: 30%;
+}
+span.title {
+    width: 100%;
+    display: block;
+}
+.product li {
+    width: 33%;
+    text-align: center;
+}
+span.conten {
+    padding: 30px 0;
+    display: block;
+}
+.arrival {
+    width: 30%;
+    text-align: center;
+}
+.slide_r {
+    width: 25%;
+    margin-left: 25px;
+}
+.home {
+    width: 30%;
+}
+.home h2 {
+    width: 100%;
+    text-align: center;
+    font-size:30px;
+}
+.boxx {
+    width: 28%;
+    margin:25px;
+}
+.email_tex {
+    width: 30%;
+}
+.email_tex h2 {
+    font-size: 40px;
+    margin-top: -70px;
+}
+.email_tex input#mc-email {
+    width: 300px;
+    margin-left: -100px;
+    margin-top:22px;
+}
+.email_tex button.bttn-3.submit {
+    margin-left: -100px;
+    width: 300px;
+    margin-top: 18px;
+}
+.email_tex p {
+    width: 300px;
+    margin-left: -100px;
+}
+.fote{
+    color: #fff;
+    width: 100%;
+    display: block;
+    background: #953eb1bf;
+    text-align: center;
+}
+.bakc{
+    height: 500px;
+    width: 100%;
+    display: block;
+}
+.tex {
+    width: 33%;
+    background: #000;
+    height:400px;
+}
+.tex h2 {
+    font-size: 31px;
+    color: #fff;
+    text-align: center;
+}
+.tex p {
+    text-align: center;
+    font-size: 20px;
+}
+.leand{
+        display: none;
+    }
+.btns {
+    margin-left: 22%;
+}
+
+
+
+
+
+
+
+
+}
